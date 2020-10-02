@@ -51,12 +51,19 @@ N˜ao esque¸ca de pular de linha (‘\n’) ao final de cada linha.
 
 ## Exemplo de entrada
 I dolores 159753456
+
 I maria 784512369
+
 P francisca
+
 A dolores 543216987
+
 P dolores
+
 R francisca
+
 I dolores 123456789
+
 0
 
 Saıda esperada para esse exemplo:
